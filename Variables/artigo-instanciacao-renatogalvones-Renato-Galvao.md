@@ -2,7 +2,7 @@
 **Autor**: [Renato Galvão](https://github.com/renatogalvones)
 **Data**: 1462906440777
 
-O JavaScript é uma linguagem maravilhosa, porém tem suas particularidades assim como qualquer linguagem. Um programador desavisado pode passar muito tempo debruçado em um problema que para ele não faz sentido mas que faria caso ele entendesse como o JavaScript se comporta "por debaixo dos panos".
+O JavaScript é uma linguagem maravilhosa, porém tem suas particularidades assim como qualquer linguagem. Um programador desavisado pode passar muito tempo debruçado em um problema que para ele não faz sentido, mas que faria caso ele entendesse como o JavaScript se comporta "por debaixo dos panos".
 E é isso que vamos esclarecer abaixo:
 
 ---
